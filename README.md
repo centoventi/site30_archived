@@ -8,3 +8,7 @@ Here you will find our code for your SCP games.
 # How to report bugs:
 Please report bugs via [our discord](https://discord.gg/GuEFSWJQS7).
 
+Last updated: July 2025
+
+# Important
+The project has been discontinued until further notice due to the lack of activity and multiple people resigning meaning they lost studio access.
