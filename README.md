@@ -7,7 +7,7 @@ Code is no longer supported and may break at any given time.
 # Update notes:
 - N/A, Discontinued repository.
 
-# How to report bugs:
+# How to report bugs (Support not guaranteed).
 Please report bugs via [our discord](https://discord.gg/GuEFSWJQS7). [CLOSED]
 
 Last updated: July 2025
