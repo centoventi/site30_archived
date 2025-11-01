@@ -1,4 +1,4 @@
-# SCPF: Site-30 | Public github repository
+# SCPF: Site-30 | Public github repository [DISCONTINUED NOVEMBER 1, 2025]
 Welcome to the public SCPF: Site-30 github repository.
 Here you will find our code for your SCP games.
 
